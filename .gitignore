@@ -1,0 +1,22 @@
+# Environment variables
+.env
+.env.local
+*.pyc
+__pycache__/
+.DS_Store
+
+# Data output
+data/
+*.json
+*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Virtual environments
+venv/
+env/
+ENV/
